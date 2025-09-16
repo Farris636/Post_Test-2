@@ -180,6 +180,15 @@ Tampilan sebelum menggunakan menu 5 yaitu sortir sesuai abjad yang dimulai dari 
 Tampilan setelah menggunakan sortir sesuai abjad.
 
 ### Menu 6
+<img width="447" height="125" alt="image" src="https://github.com/user-attachments/assets/76e28c7b-5684-41f3-b099-6a309d7a34ad" />
+
+Tampilan dari menu 6 yaitu untuk mencari Kontak dengan menggunakan Nama yang ditambahkan.
+
+### Menu 7
+<img width="377" height="51" alt="image" src="https://github.com/user-attachments/assets/7bda1802-cd13-45b2-aa76-d89e51000dd4" />
+
+Tampilan dari menu 7 yaitu keluar dari program.
+
 
 
 
