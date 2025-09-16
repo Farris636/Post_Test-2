@@ -19,6 +19,25 @@ Arsitektur menggunakan konsep **MVC sederhana**:
 - `service` → logika CRUD
 - `main` → menu interaksi user
 
+## Struktur Package
+<img width="291" height="268" alt="image" src="https://github.com/user-attachments/assets/284ae200-742c-42e9-bf20-3113bcbe171a" />
+
+### Main
+- Berisi file Main.java.
+- File ini biasanya berisi method main() sebagai titik awal eksekusi program.
+- Fungsinya untuk menjalankan aplikasi dengan memanggil service atau class lain.
+
+### Models
+- Berisi file Kontak.java.
+- Package Models berisi class yang merepresentasikan data atau entitas.
+- Kontak.java kemungkinan berisi atribut seperti nama, nomorTelepon, email, dsb., serta getter dan setter-nya.
+-Konsep ini mengikuti pola Object-Oriented Programming (OOP) dengan membuat blueprint untuk data kontak.
+
+### Services
+- Berisi file KontakService.java.
+- Package Services digunakan untuk menaruh logika bisnis atau fungsi layanan.
+- KontakService.java kemungkinan berisi method untuk menambah, menghapus, menampilkan, atau mencari kontak dari daftar.
+
 ## Alur Program
 1. Program dijalankan → tampil menu utama.
 2. User memilih menu (Tambah, Lihat, Ubah, Hapus, Cari, Sortir, Keluar).
